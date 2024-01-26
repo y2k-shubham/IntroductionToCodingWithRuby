@@ -1,0 +1,1 @@
+This repository contains practise exercises from Ruby introductory course on Udemy called ["Introduction to Coding With Ruby" by Dan Draper](https://www.udemy.com/course/newbie-to-ruby/)
